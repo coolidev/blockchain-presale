@@ -1,0 +1,41 @@
+// .basic-layout-container{
+// 	background:#000;
+// 	position: relative;
+// 	width: 100%;
+// 	min-height: 100vh;
+// 	display: flex;
+// 	padding-bottom: 50px;
+// }
+// .main-content{
+// 	width: calc(100% - 250px);
+// 	padding: 1rem 0;
+// 	margin-left: 250px;;
+// }
+// .basic-layout-container .main-content .container{
+// 	max-width: 100%;
+// }
+// .basic-layout-container.flip .sidebar{
+// 	width:95px;
+// }
+// .basic-layout-container.flip .main-content{
+// 		/*width: calc(100% - 95px);*/
+// 		margin-left: 95px;
+// 		width: 100%;
+// }
+// .basic-layout-container.flip .sidebar li a{
+// 	display: flex;
+// 	justify-content: center;
+// 	align-items: center;
+// }
+// .basic-layout-container.flip .sidebar .user-panel img{
+// 	display: none !important;
+// }
+// .basic-layout-container.flip .sidebar .user-panel img.mob-logo{
+// 	display: block !important;
+// }
+// .basic-layout-container.flip .sidebar li a .nav-label, .basic-layout-container.flip .sidebar li a .nav-label + span{
+// 		display: none;
+// }
+// .com-div{
+// 	padding:2rem;
+// }
